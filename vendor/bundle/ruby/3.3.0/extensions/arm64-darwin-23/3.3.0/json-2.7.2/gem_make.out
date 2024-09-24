@@ -1,0 +1,16 @@
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/non/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-pfd0gc sitelibdir\=./.gem.20240918-90641-pfd0gc clean
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-pfd0gc sitelibdir\=./.gem.20240918-90641-pfd0gc
+make: Nothing to be done for `all'.
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-pfd0gc sitelibdir\=./.gem.20240918-90641-pfd0gc install
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-pfd0gc sitelibdir\=./.gem.20240918-90641-pfd0gc clean

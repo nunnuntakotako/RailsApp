@@ -1,0 +1,22 @@
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+/Users/non/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-2lgoie sitelibdir\=./.gem.20240918-90641-2lgoie clean
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-2lgoie sitelibdir\=./.gem.20240918-90641-2lgoie
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-2lgoie sitelibdir\=./.gem.20240918-90641-2lgoie install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240918-90641-2lgoie/bootsnap
+
+current directory: /Users/non/Desktop/ProfileApp_project/profileapp/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240918-90641-2lgoie sitelibdir\=./.gem.20240918-90641-2lgoie clean
